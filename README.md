@@ -1,4 +1,4 @@
-# UseInversionOfControl
+# Inversion Of Control
 Ioc Principle, Dependency Inversion Principle, Ioc With Dependency Injection, DI With Unity Container
 
 We want to make loosely coupled design with any project which is developed with any language. 
