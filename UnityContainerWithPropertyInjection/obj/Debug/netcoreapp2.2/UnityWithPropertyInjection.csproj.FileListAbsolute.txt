@@ -1,0 +1,8 @@
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\bin\Debug\netcoreapp2.2\UnityWithPropertyInjection.deps.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\bin\Debug\netcoreapp2.2\UnityWithPropertyInjection.runtimeconfig.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\bin\Debug\netcoreapp2.2\UnityWithPropertyInjection.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\bin\Debug\netcoreapp2.2\UnityWithPropertyInjection.dll
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\obj\Debug\netcoreapp2.2\UnityWithPropertyInjection.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\obj\Debug\netcoreapp2.2\UnityWithPropertyInjection.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\obj\Debug\netcoreapp2.2\UnityWithPropertyInjection.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\UnityWithPropertyInjection\obj\Debug\netcoreapp2.2\UnityWithPropertyInjection.AssemblyInfo.cs

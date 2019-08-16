@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\bin\Debug\netcoreapp2.2\UseInversionOfControl.deps.json
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\bin\Debug\netcoreapp2.2\UseInversionOfControl.runtimeconfig.json
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\bin\Debug\netcoreapp2.2\UseInversionOfControl.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\bin\Debug\netcoreapp2.2\UseInversionOfControl.dll
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\bin\Debug\netcoreapp2.2\UseInversionOfControl.pdb
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.dll
+C:\Users\merti\Source\Repos\UseInversionOfControl\UseInversionOfControl\UseInversionOfControl\obj\Debug\netcoreapp2.2\UseInversionOfControl.pdb

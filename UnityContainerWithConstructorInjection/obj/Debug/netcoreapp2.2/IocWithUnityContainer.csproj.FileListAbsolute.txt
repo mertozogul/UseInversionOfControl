@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\bin\Debug\netcoreapp2.2\IocWithUnityContainer.deps.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\bin\Debug\netcoreapp2.2\IocWithUnityContainer.runtimeconfig.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\bin\Debug\netcoreapp2.2\IocWithUnityContainer.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\bin\Debug\netcoreapp2.2\IocWithUnityContainer.dll
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\bin\Debug\netcoreapp2.2\IocWithUnityContainer.pdb
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.dll
+C:\Users\merti\Source\Repos\IocWithUnityContainer\IocWithUnityContainer\obj\Debug\netcoreapp2.2\IocWithUnityContainer.pdb
